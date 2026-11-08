@@ -1,0 +1,29 @@
+<resources>
+    <string name="kill_hint">Siempre puedes decir “kill Fib”.</string>
+    <string name="perm_mic">Fib necesita el micrófono para oír “Hey Fib” y tus órdenes. %1$s</string>
+    <string name="perm_notif">Fib necesita notificaciones para mostrar que está escuchando. %1$s</string>
+    <string name="perm_contacts">Fib necesita tus contactos para llamar por nombre. %1$s</string>
+    <string name="perm_phone">Fib necesita acceso al teléfono para hacer llamadas. %1$s</string>
+    <string name="perm_sms">Fib necesita permiso de SMS para enviar mensajes por ti. %1$s</string>
+    <string name="perm_camera">Fib necesita la cámara para hacer fotos. %1$s</string>
+    <string name="perm_location">Fib necesita tu ubicación para navegar. %1$s</string>
+    <string name="allow">Permitir</string>
+    <string name="not_now">Ahora no</string>
+    <string name="wl_title">Añade Fib a la lista blanca</string>
+    <string name="wl_msg">Tu teléfono puede impedir que Fib escuche siempre. Añade Fib a la lista blanca (batería: sin restricciones y permitir inicio automático) para que “Hey Fib” funcione siempre. %1$s</string>
+    <string name="wl_stopped">Tu teléfono detuvo Fib. Toca para añadirlo a la lista blanca.</string>
+    <string name="hint">Escribe a Fib…</string>
+    <string name="greeting">Hola, soy Fib. Di “Hey Fib” o escribe abajo. Gratis: con Wikipedia.</string>
+    <string name="premium">⭐ Premium 10 €/mes</string>
+    <string name="premium_on">⭐ Premium</string>
+    <string name="killed">Fib está desactivado.</string>
+    <string name="enable">Activar Fib</string>
+    <string name="listening">Escuchando “Hey Fib”</string>
+    <string name="kill">Apagar Fib</string>
+    <string name="nothing">No encontré nada.</string>
+    <string name="calling">Llamando a %1$s</string>
+    <string name="sms_sent">Mensaje enviado a %1$s</string>
+    <string name="sms_opened">Mensaje listo para %1$s</string>
+    <string name="no_contact">No encuentro a %1$s en tus contactos</string>
+    <string name="tap_to_open">Toca para abrir</string>
+</resources>
