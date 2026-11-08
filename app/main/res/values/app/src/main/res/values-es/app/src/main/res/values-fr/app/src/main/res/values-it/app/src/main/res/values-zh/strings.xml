@@ -1,0 +1,29 @@
+<resources>
+    <string name="kill_hint">你随时可以说“kill Fib”。</string>
+    <string name="perm_mic">Fib需要麦克风来听“Hey Fib”和你的指令。%1$s</string>
+    <string name="perm_notif">Fib需要通知权限来显示正在聆听。%1$s</string>
+    <string name="perm_contacts">Fib需要通讯录来按姓名打电话。%1$s</string>
+    <string name="perm_phone">Fib需要电话权限来拨打电话。%1$s</string>
+    <string name="perm_sms">Fib需要短信权限来替你发送短信。%1$s</string>
+    <string name="perm_camera">Fib需要相机权限来拍照。%1$s</string>
+    <string name="perm_location">Fib需要位置权限来导航。%1$s</string>
+    <string name="allow">允许</string>
+    <string name="not_now">暂不</string>
+    <string name="wl_title">请将Fib加入白名单</string>
+    <string name="wl_msg">你的手机可能会阻止Fib持续聆听。请将Fib加入白名单（电池：无限制，并允许自启动），这样“Hey Fib”才能一直有效。%1$s</string>
+    <string name="wl_stopped">手机已停止Fib。点按以加入白名单。</string>
+    <string name="hint">给Fib发消息…</string>
+    <string name="greeting">你好，我是Fib。说“Hey Fib”或在下方输入。免费版由维基百科驱动。</string>
+    <string name="premium">⭐ 高级版 €10/月</string>
+    <string name="premium_on">⭐ 高级版</string>
+    <string name="killed">Fib已停用。</string>
+    <string name="enable">启用Fib</string>
+    <string name="listening">正在聆听“Hey Fib”</string>
+    <string name="kill">关闭Fib</string>
+    <string name="nothing">没有找到相关内容。</string>
+    <string name="calling">正在呼叫%1$s</string>
+    <string name="sms_sent">已向%1$s发送短信</string>
+    <string name="sms_opened">给%1$s的短信已准备好</string>
+    <string name="no_contact">通讯录中找不到%1$s</string>
+    <string name="tap_to_open">点按打开</string>
+</resources>
