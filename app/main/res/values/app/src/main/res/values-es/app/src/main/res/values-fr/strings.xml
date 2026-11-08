@@ -1,0 +1,29 @@
+<resources>
+    <string name="kill_hint">Vous pouvez toujours dire « kill Fib ».</string>
+    <string name="perm_mic">Fib a besoin du micro pour entendre « Hey Fib » et vos commandes. %1$s</string>
+    <string name="perm_notif">Fib a besoin des notifications pour montrer qu’il écoute. %1$s</string>
+    <string name="perm_contacts">Fib a besoin de vos contacts pour appeler par nom. %1$s</string>
+    <string name="perm_phone">Fib a besoin d’accéder au téléphone pour appeler. %1$s</string>
+    <string name="perm_sms">Fib a besoin de l’autorisation SMS pour envoyer des messages à votre place. %1$s</string>
+    <string name="perm_camera">Fib a besoin de l’appareil photo. %1$s</string>
+    <string name="perm_location">Fib a besoin de votre position pour la navigation. %1$s</string>
+    <string name="allow">Autoriser</string>
+    <string name="not_now">Pas maintenant</string>
+    <string name="wl_title">Ajoutez Fib à la liste blanche</string>
+    <string name="wl_msg">Votre téléphone peut empêcher Fib d’écouter en permanence. Ajoutez Fib à la liste blanche (batterie : sans restriction, et autoriser le démarrage auto) pour que « Hey Fib » fonctionne toujours. %1$s</string>
+    <string name="wl_stopped">Votre téléphone a arrêté Fib. Touchez pour l’autoriser.</string>
+    <string name="hint">Écrire à Fib…</string>
+    <string name="greeting">Salut, je suis Fib. Dites « Hey Fib » ou écrivez ci-dessous. Gratuit : propulsé par Wikipédia.</string>
+    <string name="premium">⭐ Premium 10 €/mois</string>
+    <string name="premium_on">⭐ Premium</string>
+    <string name="killed">Fib est désactivé.</string>
+    <string name="enable">Activer Fib</string>
+    <string name="listening">À l’écoute de « Hey Fib »</string>
+    <string name="kill">Arrêter Fib</string>
+    <string name="nothing">Je n’ai rien trouvé.</string>
+    <string name="calling">J’appelle %1$s</string>
+    <string name="sms_sent">Message envoyé à %1$s</string>
+    <string name="sms_opened">Message prêt pour %1$s</string>
+    <string name="no_contact">Je ne trouve pas %1$s dans vos contacts</string>
+    <string name="tap_to_open">Touchez pour ouvrir</string>
+</resources>
