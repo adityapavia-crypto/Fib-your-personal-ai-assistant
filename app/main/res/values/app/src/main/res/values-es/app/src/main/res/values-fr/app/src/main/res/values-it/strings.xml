@@ -1,0 +1,29 @@
+<resources>
+    <string name="kill_hint">Puoi sempre dire “kill Fib”.</string>
+    <string name="perm_mic">Fib ha bisogno del microfono per sentire “Hey Fib” e i tuoi comandi. %1$s</string>
+    <string name="perm_notif">Fib ha bisogno delle notifiche per mostrare che sta ascoltando. %1$s</string>
+    <string name="perm_contacts">Fib ha bisogno dei contatti per chiamare per nome. %1$s</string>
+    <string name="perm_phone">Fib ha bisogno del telefono per fare chiamate. %1$s</string>
+    <string name="perm_sms">Fib ha bisogno del permesso SMS per inviare messaggi al posto tuo. %1$s</string>
+    <string name="perm_camera">Fib ha bisogno della fotocamera. %1$s</string>
+    <string name="perm_location">Fib ha bisogno della posizione per la navigazione. %1$s</string>
+    <string name="allow">Consenti</string>
+    <string name="not_now">Non ora</string>
+    <string name="wl_title">Aggiungi Fib alla whitelist</string>
+    <string name="wl_msg">Il telefono potrebbe impedire a Fib di ascoltare sempre. Aggiungi Fib alla whitelist (batteria: senza restrizioni e avvio automatico consentito) così “Hey Fib” funziona sempre. %1$s</string>
+    <string name="wl_stopped">Il telefono ha fermato Fib. Tocca per aggiungerlo alla whitelist.</string>
+    <string name="hint">Scrivi a Fib…</string>
+    <string name="greeting">Ciao, sono Fib. Di’ “Hey Fib” o scrivi qui sotto. Gratis: con Wikipedia.</string>
+    <string name="premium">⭐ Premium 10 €/mese</string>
+    <string name="premium_on">⭐ Premium</string>
+    <string name="killed">Fib è disattivato.</string>
+    <string name="enable">Attiva Fib</string>
+    <string name="listening">In ascolto di “Hey Fib”</string>
+    <string name="kill">Spegni Fib</string>
+    <string name="nothing">Non ho trovato nulla.</string>
+    <string name="calling">Chiamo %1$s</string>
+    <string name="sms_sent">Messaggio inviato a %1$s</string>
+    <string name="sms_opened">Messaggio pronto per %1$s</string>
+    <string name="no_contact">Non trovo %1$s nei tuoi contatti</string>
+    <string name="tap_to_open">Tocca per aprire</string>
+</resources>
