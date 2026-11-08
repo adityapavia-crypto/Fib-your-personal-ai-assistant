@@ -1,0 +1,29 @@
+<resources>
+    <string name="kill_hint">يمكنك دائمًا أن تقول “kill Fib”.</string>
+    <string name="perm_mic">يحتاج Fib إلى الميكروفون لسماع “Hey Fib” وأوامرك. %1$s</string>
+    <string name="perm_notif">يحتاج Fib إلى الإشعارات لإظهار أنه يستمع. %1$s</string>
+    <string name="perm_contacts">يحتاج Fib إلى جهات الاتصال للاتصال بالأسماء. %1$s</string>
+    <string name="perm_phone">يحتاج Fib إلى إذن الهاتف لإجراء المكالمات. %1$s</string>
+    <string name="perm_sms">يحتاج Fib إلى إذن الرسائل القصيرة لإرسال الرسائل نيابةً عنك. %1$s</string>
+    <string name="perm_camera">يحتاج Fib إلى الكاميرا لالتقاط الصور. %1$s</string>
+    <string name="perm_location">يحتاج Fib إلى موقعك للملاحة. %1$s</string>
+    <string name="allow">السماح</string>
+    <string name="not_now">ليس الآن</string>
+    <string name="wl_title">يرجى إضافة Fib إلى القائمة البيضاء</string>
+    <string name="wl_msg">قد يمنع هاتفك Fib من الاستماع دائمًا. يرجى إضافة Fib إلى القائمة البيضاء (البطارية: غير مقيّد، والسماح بالتشغيل التلقائي) ليعمل “Hey Fib” دائمًا. %1$s</string>
+    <string name="wl_stopped">أوقف هاتفك Fib. اضغط لإضافته إلى القائمة البيضاء.</string>
+    <string name="hint">اكتب إلى Fib…</string>
+    <string name="greeting">مرحبًا، أنا Fib. قل “Hey Fib” أو اكتب أدناه. مجانًا: بواسطة ويكيبيديا.</string>
+    <string name="premium">⭐ بريميوم 10€/شهر</string>
+    <string name="premium_on">⭐ بريميوم</string>
+    <string name="killed">تم تعطيل Fib.</string>
+    <string name="enable">تفعيل Fib</string>
+    <string name="listening">يستمع إلى “Hey Fib”</string>
+    <string name="kill">إيقاف Fib</string>
+    <string name="nothing">لم أجد شيئًا.</string>
+    <string name="calling">جارٍ الاتصال بـ %1$s</string>
+    <string name="sms_sent">تم إرسال رسالة إلى %1$s</string>
+    <string name="sms_opened">الرسالة جاهزة لـ %1$s</string>
+    <string name="no_contact">لا أجد %1$s في جهات الاتصال</string>
+    <string name="tap_to_open">اضغط للفتح</string>
+</resources>
