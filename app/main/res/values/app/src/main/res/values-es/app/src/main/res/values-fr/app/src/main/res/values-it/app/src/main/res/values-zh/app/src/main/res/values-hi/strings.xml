@@ -1,0 +1,29 @@
+<resources>
+    <string name="kill_hint">आप हमेशा “kill Fib” कह सकते हैं।</string>
+    <string name="perm_mic">“Hey Fib” और आपके आदेश सुनने के लिए Fib को माइक्रोफ़ोन चाहिए। %1$s</string>
+    <string name="perm_notif">सुनते समय दिखाने के लिए Fib को नोटिफ़िकेशन चाहिए। %1$s</string>
+    <string name="perm_contacts">नाम से कॉल करने के लिए Fib को संपर्क चाहिए। %1$s</string>
+    <string name="perm_phone">कॉल करने के लिए Fib को फ़ोन की अनुमति चाहिए। %1$s</string>
+    <string name="perm_sms">आपकी ओर से संदेश भेजने के लिए Fib को SMS अनुमति चाहिए। %1$s</string>
+    <string name="perm_camera">फ़ोटो के लिए Fib को कैमरा चाहिए। %1$s</string>
+    <string name="perm_location">नेविगेशन के लिए Fib को लोकेशन चाहिए। %1$s</string>
+    <string name="allow">अनुमति दें</string>
+    <string name="not_now">अभी नहीं</string>
+    <string name="wl_title">कृपया Fib को व्हाइटलिस्ट करें</string>
+    <string name="wl_msg">आपका फ़ोन Fib को हमेशा सुनने से रोक सकता है। कृपया Fib को व्हाइटलिस्ट करें (बैटरी: अप्रतिबंधित, और ऑटो-स्टार्ट की अनुमति दें) ताकि “Hey Fib” हमेशा काम करे। %1$s</string>
+    <string name="wl_stopped">आपके फ़ोन ने Fib को रोक दिया। व्हाइटलिस्ट करने के लिए टैप करें।</string>
+    <string name="hint">Fib को संदेश भेजें…</string>
+    <string name="greeting">नमस्ते, मैं Fib हूँ। “Hey Fib” कहें या नीचे लिखें। फ्री: विकिपीडिया से।</string>
+    <string name="premium">⭐ प्रीमियम €10/माह</string>
+    <string name="premium_on">⭐ प्रीमियम</string>
+    <string name="killed">Fib बंद है।</string>
+    <string name="enable">Fib चालू करें</string>
+    <string name="listening">“Hey Fib” सुन रहा है</string>
+    <string name="kill">Fib बंद करें</string>
+    <string name="nothing">कुछ नहीं मिला।</string>
+    <string name="calling">%1$s को कॉल कर रहा हूँ</string>
+    <string name="sms_sent">%1$s को संदेश भेज दिया</string>
+    <string name="sms_opened">%1$s के लिए संदेश तैयार है</string>
+    <string name="no_contact">आपके संपर्कों में %1$s नहीं मिला</string>
+    <string name="tap_to_open">खोलने के लिए टैप करें</string>
+</resources>
