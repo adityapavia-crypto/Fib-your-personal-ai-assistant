@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Fib</string>
+    <string name="kill_hint">You can always say “kill Fib”.</string>
+    <string name="perm_mic">Fib needs the microphone to hear “Hey Fib” and your commands. %1$s</string>
+    <string name="perm_notif">Fib needs notifications to show that it is listening. %1$s</string>
+    <string name="perm_contacts">Fib needs your contacts to call people by name. %1$s</string>
+    <string name="perm_phone">Fib needs phone access to place calls. %1$s</string>
+    <string name="perm_sms">Fib needs SMS permission to send text messages for you. %1$s</string>
+    <string name="perm_camera">Fib needs the camera for photos. %1$s</string>
+    <string name="perm_location">Fib needs your location for navigation. %1$s</string>
+    <string name="allow">Allow</string>
+    <string name="not_now">Not now</string>
+    <string name="wl_title">Please whitelist Fib</string>
+    <string name="wl_msg">Your phone may block Fib from always listening. Please whitelist Fib (battery: Unrestricted, and allow auto-start) so “Hey Fib” always works. %1$s</string>
+    <string name="wl_stopped">Your phone stopped Fib. Tap to whitelist it.</string>
+    <string name="hint">Message Fib…</string>
+    <string name="greeting">Hi, I’m Fib. Say “Hey Fib” or type below. Free: powered by Wikipedia.</string>
+    <string name="premium">⭐ Premium €10/mo</string>
+    <string name="premium_on">⭐ Premium</string>
+    <string name="killed">Fib is disabled.</string>
+    <string name="enable">Enable Fib</string>
+    <string name="listening">Listening for “Hey Fib”</string>
+    <string name="kill">Kill Fib</string>
+    <string name="nothing">I couldn’t find anything for that.</string>
+    <string name="calling">Calling %1$s</string>
+    <string name="sms_sent">Message sent to %1$s</string>
+    <string name="sms_opened">Message ready for %1$s</string>
+    <string name="no_contact">I can’t find %1$s in your contacts</string>
+    <string name="tap_to_open">Tap to open</string>
+</resources>
